@@ -26,4 +26,4 @@ So every time you will enter `$ usbaccess` command, you will have 10 seconds to 
 
 Of-course, a more intelligent solution will be to do a compartmental analysis, but I'm out of budget for now.
 
-### keep It Simple and Straightforward
+### Keep It Simple and Straightforward
