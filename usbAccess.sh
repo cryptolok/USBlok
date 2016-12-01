@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env sh
 
 # usb ports switch to protect from badUSB and RubberDucky
 
