@@ -1,5 +1,5 @@
 # USBlok
-badUSB and RubberDucky ultimate mitigation for Linux
+badUSB & RubberDucky & PoisonTap ultimate mitigation for Linux
 
 This is a simple, minimalistic and ultimate way to deal with USB threats in Linux environment.
 
